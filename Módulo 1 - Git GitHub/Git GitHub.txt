@@ -1,0 +1,15 @@
+Comandos básicos terminal:
+
+-CD: Acessar pastas
+-DIR: Listar arquivos e pastas
+-MKDIR: Criar novos diretórios
+-DEL: Deletar arquivos
+-RMDIR: Remover diretórios
+
+Comandos básicos Git:
+
+git add: Direciona os arquivos solicitados ao ambiente de stage
+git commit: Grava as modificações que estão em stage
+git push: Upload das modificações para o repositório remoto
+git status: Verifica arquivos rastreados e situação das modificações.
+git clone: Copia repositório remoto
